@@ -1,4 +1,4 @@
-#Python Lists
+-> Python Lists
 
 This folder contains practice notebooks related to Python lists.
 
